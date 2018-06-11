@@ -1,0 +1,106 @@
+@import "../mixin/mixin";
+
+[v-cloak] {
+    display: none
+}
+
+html,
+body {
+    height: 100%;
+}
+
+body {
+    line-height: 1.5;
+    background: #fff;
+}
+
+
+
+input:-webkit-autofill {
+    box-shadow: 0 0 0 rem-calc(60px) white inset;
+}
+
+.wrapper {
+    padding-top: rem-calc(88px); //为悬浮header预留位置
+}
+
+.main{
+    background: $bg-color;
+}
+
+.row{
+    background: #fff;
+    margin-top: rem-calc(16px);
+    &:first-child{
+        margin-top: 0;
+    }
+}
+
+.main-color {
+    color: $main-color;
+}
+
+.fcs {
+    color: $font-color-s;
+}
+
+.fcm {
+    color: $font-color-m;
+}
+
+.fcw {
+    color: $font-color-w;
+}
+
+.fl {
+    float: left;
+}
+
+.fr {
+    float: right;
+}
+
+.tal {
+    text-align: left !important;
+}
+
+.tac {
+    text-align: center !important;
+}
+
+.tar {
+    text-align: right !important;
+}
+
+.mb30 {
+    margin-bottom: rem-calc(30px);
+}
+
+//fix [password] 黑色边框
+input:focus {
+    outline: none !important;
+    // transform: rotateY(0deg);
+    &::-webkit-input-placeholder {
+        color: transparent;
+    }
+}
+
+//虚拟键盘submit 按钮隐藏
+.hack-submit {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 0;
+    height: 0;
+    line-height: 0;
+    visibility: hidden;
+}
+
+
+.km-cell {
+    display: flex;
+    align-items: center;
+    &-left {
+        flex: 1;
+    }
+}

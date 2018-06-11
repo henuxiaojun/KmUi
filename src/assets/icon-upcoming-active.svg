@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="44px" height="44px" viewBox="0 0 44 44" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/44+渐变/待办 tap</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50.6267937%" y1="99.3732063%" x2="50.6267937%" y2="0.626793686%" id="linearGradient-1">
+            <stop stop-color="#FFBB00" offset="0%"></stop>
+            <stop stop-color="#FFA600" offset="61.4706995%"></stop>
+            <stop stop-color="#FF9900" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon/44+渐变/待办-tap">
+            <g id="Page-1">
+                <polygon id="Fill-1" points="0 44 44 44 44 0 0 0"></polygon>
+                <g id="Group-11" transform="translate(4.000000, 2.000000)" fill="url(#linearGradient-1)">
+                    <path d="M15,4 C13.896,4 13,3.104 13,2 C13,0.896 13.896,0 15,0 L21,0 C22.104,0 23,0.896 23,2 C23,3.104 22.104,4 21,4 L15,4 Z M28,0 C32.411,0 36,3.589 36,8 L36,32 C36,36.411 32.411,40 28,40 L8,40 C3.589,40 0,36.411 0,32 L0,8 C0,3.589 3.589,0 8,0 C9.104,0 10,0.896 10,2 L10,3 C10,5.206 11.794,7 14,7 L22,7 C24.206,7 26,5.206 26,3 L26,2 C26,0.896 26.896,0 28,0 Z M24,30 C25.104,30 26,29.104 26,28 C26,26.896 25.104,26 24,26 L12,26 C10.896,26 10,26.896 10,28 C10,29.104 10.896,30 12,30 L24,30 Z M17.5,22 C18.012,22 18.523,21.805 18.914,21.414 L26.414,13.914 C27.195,13.133 27.195,11.867 26.414,11.086 C25.633,10.305 24.367,10.305 23.586,11.086 L17.5,17.171 L14.414,14.086 C13.633,13.305 12.367,13.305 11.586,14.086 C10.805,14.867 10.805,16.133 11.586,16.914 L16.086,21.414 C16.477,21.805 16.988,22 17.5,22 Z" id="Combined-Shape"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

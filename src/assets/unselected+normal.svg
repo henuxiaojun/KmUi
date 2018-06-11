@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="44px" height="44px" viewBox="0 0 44 44" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>checkbox/unselected+normal</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="checkbox/unselected+normal" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M21.999863,2 C10.9727618,2 2,10.972973 2,22 C2,33.0289429 10.9727618,42 21.999863,42 C33.0288827,42 42,33.0289429 42,22 C41.9997259,10.9732467 33.0288827,2 21.999863,2 M22,44 C9.86985005,44 0,34.1307092 0,21.9989919 C0,9.86752661 9.86985005,0 22,0 C34.13015,0 44,9.86929078 44,21.9989919 C44,34.128945 34.1321692,44 22,44" id="Fill" fill="#CCCCCC"></path>
+    </g>
+</svg>

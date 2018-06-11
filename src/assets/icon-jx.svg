@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/40/绩效</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="100%" y1="100%" x2="-1.11022302e-14%" y2="1.72254642e-14%" id="linearGradient-1">
+            <stop stop-color="#FF9F75" offset="0%"></stop>
+            <stop stop-color="#FF8059" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="99.044881%" id="linearGradient-2">
+            <stop stop-color="#FFFFFF" stop-opacity="0.95" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.8" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="icon/40/绩效" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M32,37 L8,37 C5.791,37 4,35.209 4,33 L4,7 C4,4.791 5.791,3 8,3 L32,3 C34.209,3 36,4.791 36,7 L36,33 C36,35.209 34.209,37 32,37" id="Fill-3" fill="url(#linearGradient-1)"></path>
+        <path d="M29.5,12 L29.5,13 C29.5,13.829 28.828,14.5 28,14.5 C27.172,14.5 26.5,13.829 26.5,13 L26.5,12 L25.5,12 C24.672,12 24,11.329 24,10.5 C24,9.671 24.672,9 25.5,9 L26.5,9 L26.5,8 C26.5,7.171 27.172,6.5 28,6.5 C28.828,6.5 29.5,7.171 29.5,8 L29.5,9 L30.5,9 C31.328,9 32,9.671 32,10.5 C32,11.329 31.328,12 30.5,12 L29.5,12 Z" id="Combined-Shape" fill="#FFBE8C"></path>
+        <path d="M24.76375,25.9995 L15.23625,25.9995 L13.789,28.894 C13.296,29.881 12.096,30.284 11.106,29.789 C10.117,29.294 9.717,28.093 10.211,27.105 L18.211,11.105 C18.55,10.428 19.242,10 20,10 C20.758,10 21.45,10.428 21.789,11.105 L29.789,27.105 C30.283,28.093 29.883,29.294 28.895,29.789 C28.607,29.932 28.302,30 28.002,30 C27.268,30 26.562,29.595 26.211,28.894 L24.76375,25.9995 Z M17.23625,21.9995 L22.76375,21.9995 L20,16.472 L17.23625,21.9995 Z" id="Combined-Shape" fill="url(#linearGradient-2)"></path>
+    </g>
+</svg>

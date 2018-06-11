@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="44px" height="44px" viewBox="0 0 44 44" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/44+#000/管理中心</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="100%" y1="100%" x2="0.82640896%" y2="0.82640896%" id="linearGradient-1">
+            <stop stop-color="#FFC526" offset="0%"></stop>
+            <stop stop-color="#FFAA00" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="icon/44+#000/管理中心" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M34,39 L10,39 C7.791,39 6,37.209 6,35 L6,21 C6,18.791 7.791,17 10,17 L16.597,17 C17.505,17 18.386,17.31 19.096,17.877 L21.904,20.123 C22.614,20.69 23.495,21 24.403,21 L34,21 C36.209,21 38,22.791 38,25 L38,35 C38,37.209 36.209,39 34,39 Z M37,12 L37,18.688 C36.09,18.252 35.075,18 34,18 L34,8.142 C35.722,8.588 37,10.139 37,12 Z M10,14 C8.925,14 7.91,14.252 7,14.688 L7,9 C7,6.791 8.791,5 11,5 L27,5 C29.209,5 31,6.791 31,9 L31,18 L24.403,18 C24.177,18 23.956,17.922 23.778,17.779 L20.969,15.533 C19.733,14.545 18.18,14 16.597,14 L10,14 Z" id="Combined-Shape-Copy" fill="url(#linearGradient-1)"></path>
+    </g>
+</svg>

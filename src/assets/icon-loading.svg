@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="72px" height="72px" viewBox="0 0 72 72" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>toast/_resource/icon-loading</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round">
+        <g id="toast/_resource/icon-loading" stroke-width="3">
+            <g id="Group" transform="translate(2.000000, 2.000000)">
+                <path d="M34,68 C52.7776815,68 68,52.7776815 68,34 C68,15.2223185 52.7776815,0 34,0 C15.2223185,0 0,15.2223185 0,34 C0,52.7776815 15.2223185,68 34,68 Z" id="Oval-4" stroke="#FFFFFF"></path>
+                <path d="M58.0979149,10.0147851 C64.2176204,16.1630654 68,24.6398217 68,34 C68,34.0375809 67.999939,34.0751476 68,34.1127" id="Combined-Shape" stroke="#FFAA00"></path>
+            </g>
+        </g>
+    </g>
+</svg>

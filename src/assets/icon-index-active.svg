@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="44px" height="44px" viewBox="0 0 44 44" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/44+渐变/首页 tap</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50.6267937%" y1="99.3732063%" x2="50.6267937%" y2="0.626793686%" id="linearGradient-1">
+            <stop stop-color="#FFBB00" offset="0%"></stop>
+            <stop stop-color="#FF9900" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon/44+渐变/首页-tap">
+            <rect id="Rectangle" x="0" y="0" width="44" height="44"></rect>
+            <g id="Page-1" transform="translate(0.000000, 2.000000)" fill="url(#linearGradient-1)">
+                <path d="M27.0001426,39.9335 C25.8961426,39.9335 25.0001426,39.0375 25.0001426,37.9335 L25.0001426,27.9335 L19.0001426,27.9335 L19.0001426,37.9335 C19.0001426,39.0375 18.1041426,39.9335 17.0001426,39.9335 L13.0001426,39.9335 C8.58914262,39.9335 5.00014262,36.3445 5.00014262,31.9335 L5.00014262,19.9335 L2.00014262,19.9335 C1.17214262,19.9335 0.430142621,19.4235 0.133142621,18.6495 C-0.163857379,17.8765 0.0461426208,17.0005 0.662142621,16.4465 L16.6481426,2.0595 C19.6991426,-0.6865 24.3011426,-0.6865 27.3521426,2.0595 L43.3381426,16.4465 C43.9541426,17.0005 44.1641426,17.8765 43.8671426,18.6495 C43.5701426,19.4235 42.8281426,19.9335 42.0001426,19.9335 L39.0001426,19.9335 L39.0001426,31.9335 C39.0001426,36.3445 35.4111426,39.9335 31.0001426,39.9335 L27.0001426,39.9335 Z" id="Fill-3"></path>
+            </g>
+        </g>
+    </g>
+</svg>

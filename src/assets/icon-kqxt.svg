@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/40/考勤系统</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="99.8780708%" y1="99.8780708%" x2="0%" y2="0%" id="linearGradient-1">
+            <stop stop-color="#89DB84" offset="0%"></stop>
+            <stop stop-color="#70CC70" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="99.044881%" id="linearGradient-2">
+            <stop stop-color="#FFFFFF" stop-opacity="0.95" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.8" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="icon/40/考勤系统" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M31,3 L31,5.5 C31,6.329 30.328,7 29.5,7 C28.672,7 28,6.329 28,5.5 L28,3 L21.5,3 L21.5,5.5 C21.5,6.329 20.828,7 20,7 C19.172,7 18.5,6.329 18.5,5.5 L18.5,3 L12,3 L12,5.5 C12,6.329 11.328,7 10.5,7 C9.672,7 9,6.329 9,5.5 L9,3 L8,3 C5.791,3 4,4.791 4,7 L4,33 C4,35.209 5.791,37 8,37 L32,37 C34.209,37 36,35.209 36,33 L36,7 C36,4.791 34.209,3 32,3 L31,3 Z" id="Fill-3" fill="url(#linearGradient-1)"></path>
+        <path d="M19.457,26.8032 C18.945,26.8032 18.434,26.6082 18.043,26.2172 L12.88,21.0542 C12.099,20.2742 12.099,19.0072 12.88,18.2262 C13.661,17.4452 14.927,17.4452 15.708,18.2262 L19.457,21.9752 L26.466,14.9662 C27.247,14.1852 28.513,14.1852 29.294,14.9662 C30.075,15.7472 30.075,17.0132 29.294,17.7942 L20.871,26.2172 C20.48,26.6082 19.969,26.8032 19.457,26.8032" id="Fill-5" fill="url(#linearGradient-2)"></path>
+    </g>
+</svg>

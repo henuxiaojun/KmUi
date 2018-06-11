@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="44px" height="44px" viewBox="0 0 44 44" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/44+#888/待办</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="icon/44+#888/待办" stroke="#888888" stroke-width="4">
+            <g id="Page-1" transform="translate(6.000000, 4.000000)">
+                <path d="M10,26 L22,26" id="Stroke-3"></path>
+                <g id="Group-10">
+                    <path d="M13,0 L19,0" id="Stroke-4"></path>
+                    <path d="M26,0 C29.313,0 32,2.687 32,6 L32,30 C32,33.313 29.313,36 26,36 L6,36 C2.687,36 0,33.313 0,30 L0,6 C0,2.687 2.687,0 6,0" id="Stroke-6"></path>
+                    <polyline id="Stroke-8" points="11 13.5 15.5 18 23 10.5"></polyline>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="44px" height="44px" viewBox="0 0 44 44" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/44+#000/host地址</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="100%" y1="100%" x2="0%" y2="0%" id="linearGradient-1">
+            <stop stop-color="#E0C587" offset="0%"></stop>
+            <stop stop-color="#E0AF5A" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="icon/44+#000/host地址" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M6,9 L6,35 C6,37.209 7.791,39 10,39 L34,39 C36.209,39 38,37.209 38,35 L38,16.657 C38,15.596 37.579,14.578 36.829,13.828 L29.171,6.172 C28.421,5.422 27.404,5 26.343,5 L10,5 C7.791,5 6,6.791 6,9" id="Fill-3-Copy" fill="url(#linearGradient-1)"></path>
+        <path d="M28.5,19 L15.5,19 C14.671,19 14,18.328 14,17.5 C14,16.672 14.671,16 15.5,16 L28.5,16 C29.329,16 30,16.672 30,17.5 C30,18.328 29.329,19 28.5,19" id="Fill-5-Copy" fill="#FFFFFF"></path>
+        <path d="M23.5,28 L15.5,28 C14.671,28 14,27.328 14,26.5 C14,25.672 14.671,25 15.5,25 L23.5,25 C24.329,25 25,25.672 25,26.5 C25,27.328 24.329,28 23.5,28" id="Fill-7-Copy" fill="#FFFFFF"></path>
+    </g>
+</svg>

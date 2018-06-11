@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/40/QS系统</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="100%" y1="100%" x2="0.82640896%" y2="0.82640896%" id="linearGradient-1">
+            <stop stop-color="#FFC526" offset="0%"></stop>
+            <stop stop-color="#FFAA00" offset="100%"></stop>
+        </linearGradient>
+        <polygon id="path-2" points="0.1713 0.0002 18 0.0002 18 17.8292 0.1713 17.8292"></polygon>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="99.044881%" id="linearGradient-4">
+            <stop stop-color="#FFFFFF" stop-opacity="0.95" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.8" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="icon/40/QS系统" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M32,37 L8,37 C5.791,37 4,35.209 4,33 L4,7 C4,4.791 5.791,3 8,3 L32,3 C34.209,3 36,4.791 36,7 L36,33 C36,35.209 34.209,37 32,37" id="Fill-3" fill="url(#linearGradient-1)"></path>
+        <path d="M24.6426,30 L22.5826,30 C22.2606,30 21.9996,29.739 21.9996,29.417 L21.9996,27.357 C21.9996,27.122 22.1416,26.909 22.3596,26.819 C22.5776,26.729 22.8286,26.779 22.9956,26.945 L25.0546,29.005 C25.2216,29.172 25.2716,29.423 25.1806,29.64 C25.0906,29.858 24.8786,30 24.6426,30" id="Fill-5" fill="#FFD11A"></path>
+        <g id="Group-9" transform="translate(22.000000, 12.000000)">
+            <mask id="mask-3" fill="white">
+                <use xlink:href="#path-2"></use>
+            </mask>
+            <g id="Clip-8"></g>
+            <path d="M17.4023,0.5972 C16.6063,-0.1988 15.3153,-0.1988 14.5183,0.5972 L6.3503,8.7652 L0.1713,14.9452 L3.0543,17.8292 L9.2343,11.6492 L17.4023,3.4812 C18.1993,2.6852 18.1993,1.3932 17.4023,0.5972" id="Fill-7" fill="#FFD633" mask="url(#mask-3)"></path>
+        </g>
+        <path d="M29.5,13.5 L10.5,13.5 C9.672,13.5 9,12.829 9,12 C9,11.171 9.672,10.5 10.5,10.5 L29.5,10.5 C30.328,10.5 31,11.171 31,12 C31,12.829 30.328,13.5 29.5,13.5 Z M21.5,21.5 L10.5,21.5 C9.672,21.5 9,20.829 9,20 C9,19.171 9.672,18.5 10.5,18.5 L21.5,18.5 C22.328,18.5 23,19.171 23,20 C23,20.829 22.328,21.5 21.5,21.5 Z M17.5,29.5 L10.5,29.5 C9.672,29.5 9,28.829 9,28 C9,27.171 9.672,26.5 10.5,26.5 L17.5,26.5 C18.328,26.5 19,27.171 19,28 C19,28.829 18.328,29.5 17.5,29.5 Z" id="Combined-Shape" fill="url(#linearGradient-4)"></path>
+    </g>
+</svg>

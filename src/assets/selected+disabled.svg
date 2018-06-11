@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="44px" height="44px" viewBox="0 0 44 44" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>checkbox/selected+disabled</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="checkbox/selected+disabled" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M22,44 C9.86985005,44 0,34.1307092 0,21.9989919 C0,9.86752661 9.86985005,0 22,0 C34.13015,0 44,9.86929078 44,21.9989919 C44,34.128945 34.1321692,44 22,44" id="Fill-" fill="#CCCCCC"></path>
+        <path d="M21.999863,2 C10.9727618,2 2,10.972604 2,21.9991776 C2,33.027667 10.9727618,41.9983553 21.999863,41.9983553 C33.0288827,41.9983553 42,33.027667 42,21.9991776 C41.9997259,10.9728777 33.0288827,2 21.999863,2" id="Fill-" fill="#DDDDDD"></path>
+        <polyline id="Stroke-3" stroke="#BBBBBB" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" points="33.8481 15.2285 21.1541 27.9225 12.6901 19.4595"></polyline>
+    </g>
+</svg>

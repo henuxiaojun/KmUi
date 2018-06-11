@@ -1,0 +1,52 @@
+/*
+time: 2018-05-18  14:00:00
+author: xiaojun@km.com
+*/
+@import "./_rem-calc.scss";
+
+/********颜色**********/
+/*文字*/
+
+$color-text-link: #ffaa00;
+$color-text-error: #ff644c;
+$color-text-success: #60bf60;
+$color-text-main: #000;
+$color-text-secondary: #888;
+$color-text-placeholder: #bbb;
+
+/*填充色*/
+$color-fill-main: #ffaa00;
+$color-fill-tag: #ff644c;
+$color-fill-icon: #60bf60;
+
+/*渐变色*/
+$color-gre-start: #ffbb00;
+$color-gre-end: #ff9900;
+
+/*背景色*/
+$color-bg-main: #f4f4f4;
+$color-bg-table: #f8f8f8;
+$color-bg-toast: rgba(0, 0, 0, 0.8);
+
+/*描边*/
+$color-border-main: #ddd;
+$color-border-secondary: #eee;
+$color-border-bottom: #ffaa00;
+
+/********颜色**********/
+
+/********大小**********/
+
+/*标题*/
+$size-title-big: rem-calc(36px);
+$size-title-main: rem-calc(34px);
+$size-title-secondary: rem-calc(32px);
+
+/*文字*/
+$size-text-main: rem-calc(30px);
+$size-text-secondary: rem-calc(28px);
+$size-text-time: rem-calc(24px);
+$size-text-description: rem-calc(20px);
+
+/*默认rem值*/
+$rem-base: 32px;

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="44px" height="44px" viewBox="0 0 44 44" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/44+#000/系统权限</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="100%" y1="100%" x2="-1.11022302e-14%" y2="1.72254642e-14%" id="linearGradient-1">
+            <stop stop-color="#FF9F75" offset="0%"></stop>
+            <stop stop-color="#FF8059" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="icon/44+#000/系统权限" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M6,35 L6,20.5 C6,11.953 12.953,5 21.5,5 L22.5,5 C28.272,5 33.53,8.182 36.221,13.302 C36.607,14.035 36.325,14.942 35.591,15.328 C34.858,15.711 33.95,15.43 33.566,14.698 C31.395,10.566 27.154,8 22.5,8 L21.5,8 C15.8096935,8 10.9957735,11.8210729 9.48913645,17.0323225 C9.65641811,17.0109943 9.82692608,17 10,17 L34,17 C36.209,17 38,18.791 38,21 L38,35 C38,37.209 36.209,39 34,39 L10,39 C7.791,39 6,37.209 6,35 Z" id="Combined-Shape-Copy" fill="url(#linearGradient-1)"></path>
+        <path d="M22.5,32 C21.671,32 21,31.328 21,30.5 L21,25.5 C21,24.672 21.671,24 22.5,24 C23.329,24 24,24.672 24,25.5 L24,30.5 C24,31.328 23.329,32 22.5,32" id="Fill-7-Copy" fill="#FFFFFF"></path>
+    </g>
+</svg>

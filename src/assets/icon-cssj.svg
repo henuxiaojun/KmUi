@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/40/测试手机</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="99.1081105%" y1="99.1081105%" x2="0%" y2="0%" id="linearGradient-1">
+            <stop stop-color="#9DA2B3" offset="0%"></stop>
+            <stop stop-color="#8F95B3" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="99.044881%" id="linearGradient-2">
+            <stop stop-color="#FFFFFF" stop-opacity="0.95" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.8" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="icon/40/测试手机" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M30,38 L10,38 C7.791,38 6,36.209 6,34 L6,6 C6,3.791 7.791,2 10,2 L30,2 C32.209,2 34,3.791 34,6 L34,34 C34,36.209 32.209,38 30,38" id="Fill-1" fill="url(#linearGradient-1)"></path>
+        <path d="M23,34 L17,34 C15.896,34 15,33.104 15,32 C15,30.896 15.896,30 17,30 L23,30 C24.104,30 25,30.896 25,32 C25,33.104 24.104,34 23,34" id="Fill-3" fill="url(#linearGradient-2)"></path>
+    </g>
+</svg>

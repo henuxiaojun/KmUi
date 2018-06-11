@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="44px" height="44px" viewBox="0 0 44 44" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.1 (51147) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/44/wait</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="icon/44/wait" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M44,22 C44,34.15 34.15,44 22,44 C9.85,44 0,34.15 0,22 C0,9.85 9.85,0 22,0 C34.15,0 44,9.85 44,22" id="Fill-3" fill="#FFAA00"></path>
+        <path d="M31.9985,29.5 C31.7355,29.5 31.4695,29.432 31.2275,29.286 L21.2275,23.286 C20.7765,23.016 20.4995,22.527 20.4995,22 L20.4995,9 C20.4995,8.172 21.1715,7.5 21.9995,7.5 C22.8285,7.5 23.4995,8.172 23.4995,9 L23.4995,21.15 L32.7715,26.714 C33.4815,27.14 33.7125,28.062 33.2865,28.771 C33.0045,29.24 32.5085,29.5 31.9985,29.5" id="Fill-5" fill="#FFFFFF"></path>
+    </g>
+</svg>

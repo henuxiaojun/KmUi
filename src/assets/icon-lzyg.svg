@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/40/离职员工</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="100%" y1="100%" x2="0.82640896%" y2="0.82640896%" id="linearGradient-1">
+            <stop stop-color="#FFC526" offset="0%"></stop>
+            <stop stop-color="#FFAA00" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="99.044881%" id="linearGradient-2">
+            <stop stop-color="#FFFFFF" stop-opacity="0.95" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.8" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="icon/40/离职员工" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M34.1798897,17.1431 L35.0002,17.1431 C37.4272,17.1431 38.6392,18.5941 37.4272,22.9481 C36.364073,26.7609954 34.3714756,27.2348528 33.0779955,27.2937427 C32.2191057,33.9122444 26.6683605,40 20.0004,40 C13.3314933,40 7.78069238,33.9122388 6.92180351,27.2937335 C5.628318,27.2348037 3.63587195,26.7607979 2.5728,22.9481 C1.3608,18.5941 2.5728,17.1431 4.9998,17.1431 L5.8201185,17.1431 L5.7424,16.676 C5.5124,15.297 5.3964,13.9 5.3964,12.501 L5.3964,10.028 C5.3964,5.893 8.7504,2.54 12.8854,2.54 L16.1904,2.54 L16.1904,0 L21.5544,0 C28.7604,0 34.6034,5.842 34.6034,13.049 C34.6034,14.083 34.5174,15.116 34.3474,16.137 L34.1798897,17.1431 Z" id="Combined-Shape" fill="url(#linearGradient-1)"></path>
+        <path d="M15.373,29.0005 C14.225,29.0005 13.598,30.2725 14.287,31.1635 C15.623,32.8915 17.684,34.0005 20,34.0005 C22.316,34.0005 24.377,32.8915 25.713,31.1635 C26.402,30.2725 25.775,29.0005 24.627,29.0005 L15.373,29.0005 Z" id="Fill-9" fill="url(#linearGradient-2)"></path>
+    </g>
+</svg>

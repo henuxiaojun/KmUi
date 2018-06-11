@@ -1,0 +1,322 @@
+@import "./_var";
+@import "./_rem-calc";
+
+%bd1px {
+    border: 1px solid $color-border-main;
+    @media screen and (-webkit-min-device-pixel-ratio: 2) {
+        position: relative;
+        border: none;
+        &::before {
+            content: '';
+            position: absolute;
+            left: 0;
+            top: 0;
+            width: 200%;
+            height: 200%;
+            border: 1px solid $color-border-main;
+            transform-origin: 0 0;
+            transform: scale(.5);
+        }
+    }
+    @media screen and (-webkit-min-device-pixel-ratio: 3) {
+        position: relative;
+        border-top: none;
+        &::before {
+            content: '';
+            position: absolute;
+            left: 0;
+            top: 0;
+            width: 300%;
+            height: 300%;
+            border: 1px solid $color-border-main;
+            transform-origin: 0 0;
+            transform: scale(.3333);
+        }
+    }
+}
+
+%bd-t {
+    border-top: 1px solid $color-border-main;
+    @media screen and (-webkit-min-device-pixel-ratio: 2) {
+        position: relative;
+        border-top: none;
+        &::before {
+            content: '';
+            position: absolute;
+            left: 0;
+            top: -1px; //border 会被背景压住 weblol 20170410
+            z-index: 1;
+            width: 100%;
+            height: 0;
+            border-top: 1px solid $color-border-main;
+            transform-origin: 0 100%;
+            transform: scaleY(.5);
+        }
+    }
+    @media screen and (-webkit-min-device-pixel-ratio: 3) {
+        position: relative;
+        border-top: none;
+        &::before {
+            content: '';
+            position: absolute;
+            left: 0;
+            top: -1px; //border 会被背景压住 weblol 20170410
+            z-index: 1;
+            width: 100%;
+            height: 0;
+            border-top: 1px solid $color-border-main;
+            transform-origin: 0 100%;
+            transform: scaleY(.3333);
+        }
+    }
+}
+
+%bd-t-dashed {
+    border-top: 1px dashed $color-border-main;
+    @media screen and (-webkit-min-device-pixel-ratio: 2) {
+        position: relative;
+        border-top: none;
+        &::before {
+            content: '';
+            position: absolute;
+            left: 0;
+            top: 0;
+            z-index: 1;
+            width: 100%;
+            height: 0;
+            border-top: 1px dashed $color-border-main;
+            transform-origin: 0 100%;
+            transform: scaleY(.5);
+        }
+    }
+    @media screen and (-webkit-min-device-pixel-ratio: 3) {
+        position: relative;
+        border-top: none;
+        &::before {
+            content: '';
+            position: absolute;
+            left: 0;
+            top: 0;
+            z-index: 1;
+            width: 100%;
+            height: 0;
+            border-top: 1px dashed $color-border-main;
+            transform-origin: 0 100%;
+            transform: scaleY(.3333);
+        }
+    }
+}
+
+%bd-b {
+    border-bottom: 1px solid $color-border-main;
+    @media screen and (-webkit-min-device-pixel-ratio: 2) {
+        position: relative;
+        border-bottom: none;
+        &::after {
+            content: '';
+            position: absolute;
+            left: 0;
+            bottom: 0;
+            z-index: 1;
+            width: 100%;
+            height: 0;
+            border-bottom: 1px solid $color-border-main;
+            transform-origin: 0 100%;
+            transform: scaleY(.5);
+        }
+    }
+    @media screen and (-webkit-min-device-pixel-ratio: 3) {
+        position: relative;
+        border-bottom: none;
+        &::after {
+            content: '';
+            position: absolute;
+            left: 0;
+            bottom: 0;
+            z-index: 1;
+            width: 100%;
+            height: 0;
+            border-bottom: 1px solid $color-border-main;
+            transform-origin: 0 100%;
+            transform: scaleY(.3333);
+        }
+    }
+}
+
+%bd-t-none {
+    border-top: none;
+    @media screen and (-webkit-min-device-pixel-ratio: 2) {
+        &::before {
+            display: none;
+        }
+    }
+    @media screen and (-webkit-min-device-pixel-ratio: 3) {
+        &::before {
+            display: none;
+        }
+    }
+}
+
+%bd-b-none {
+    border-bottom: none;
+    @media screen and (-webkit-min-device-pixel-ratio: 2) {
+        &::after {
+            display: none;
+        }
+    }
+    @media screen and (-webkit-min-device-pixel-ratio: 3) {
+        &::after {
+            display: none;
+        }
+    }
+}
+
+%bd-l {
+    border-left: 1px solid $color-border-main;
+    @media screen and (-webkit-min-device-pixel-ratio: 2) {
+        position: relative;
+        border-left: none;
+        &::after {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            z-index: 1;
+            width: 0;
+            height: 100%;
+            border-right: 1px solid $color-border-main;
+            transform-origin: 0 100%;
+            transform: scaleX(.5);
+        }
+    }
+    @media screen and (-webkit-min-device-pixel-ratio: 2) {
+        position: relative;
+        border-left: none;
+        &::after {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            z-index: 1;
+            width: 0;
+            height: 100%;
+            border-right: 1px solid $color-border-main;
+            transform-origin: 0 100%;
+            transform: scaleX(.5);
+        }
+    }
+}
+
+%bd-r {
+    border-right: 1px solid $color-border-main;
+    @media screen and (-webkit-min-device-pixel-ratio: 2) {
+        position: relative;
+        border-right: none;
+        &::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            z-index: 1;
+            width: 200%;
+            height: 100%;
+            border-right: 1px solid $color-border-main;
+            transform-origin: 0 100%;
+            transform: scaleX(.5);
+        }
+    }
+    @media screen and (-webkit-min-device-pixel-ratio: 2) {
+        position: relative;
+        border-right: none;
+        &::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            z-index: 1;
+            width: 200%;
+            height: 100%;
+            border-right: 1px solid $color-border-main;
+            transform-origin: 0 100%;
+            transform: scaleX(.5);
+        }
+    }
+}
+
+%bd-r-none {
+    border-right: none;
+    @media screen and (-webkit-min-device-pixel-ratio: 2) {
+        &::before {
+            display: none;
+        }
+    }
+    @media screen and (-webkit-min-device-pixel-ratio: 3) {
+        &::before {
+            display: none;
+        }
+    }
+}
+
+// 让last-child的border-bottom显示
+%bd-b-show {
+    border-bottom: 1px solid $color-border-main;
+    @media screen and (-webkit-min-device-pixel-ratio: 2) {
+        border-bottom: none;
+        &::after {
+            display: block;
+        }
+    }
+    @media screen and (-webkit-min-device-pixel-ratio: 3) {
+        border-bottom: none;
+        &::after {
+            display: block;
+        }
+    }
+}
+
+@mixin arrow {
+    position: relative;
+    &:after {
+        content: "";
+        position: absolute;
+        top: 50%;
+        right: rem-calc(34px);
+        margin-top: rem-calc(-12px);
+        width: rem-calc(22px);
+        height: rem-calc(22px);
+        border-top: rem-calc(4px) solid $color-border-main;
+        border-right: rem-calc(4px) solid $color-border-main;
+        transform: rotateZ(45deg);
+    }
+}
+
+@mixin bg-img($url, $repeat: no-repeat, $position: center) {
+  background: $url $repeat $position;
+  background-size: 100% 100%;
+}
+
+@mixin gra-linear($start: left, $start-color: $color-gre-start, $end-color: $color-gre-end) {
+  background-image: linear-gradient($start, $start-color, $end-color);
+}
+
+@mixin window-full {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+}
+
+@mixin child-center {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate3d(-50%, -50%, 0)
+}
+
+@mixin flexCenter ($col: row) {
+  display: flex;
+  flex-direction: $col;
+  justify-content: center;
+  align-items: center;
+}

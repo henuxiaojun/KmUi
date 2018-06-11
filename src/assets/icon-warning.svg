@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="44px" height="44px" viewBox="0 0 44 44" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.1 (51147) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/44/warning</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="icon/44/warning" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M44,22 C44,34.15 34.15,44 22,44 C9.85,44 0,34.15 0,22 C0,9.85 9.85,0 22,0 C34.15,0 44,9.85 44,22" id="Fill-3" fill="#5ACAE0"></path>
+        <path d="M22,25.1924 C21.171,25.1924 20.5,24.5204 20.5,23.6924 L20.5,11.8454 C20.5,11.0174 21.171,10.3454 22,10.3454 C22.829,10.3454 23.5,11.0174 23.5,11.8454 L23.5,23.6924 C23.5,24.5204 22.829,25.1924 22,25.1924" id="Fill-5" fill="#FFFFFF"></path>
+        <path d="M22,33.6543 C21.171,33.6543 20.5,32.9823 20.5,32.1543 L20.5,30.4623 C20.5,29.6333 21.171,28.9623 22,28.9623 C22.829,28.9623 23.5,29.6333 23.5,30.4623 L23.5,32.1543 C23.5,32.9823 22.829,33.6543 22,33.6543" id="Fill-7" fill="#FFFFFF"></path>
+    </g>
+</svg>
