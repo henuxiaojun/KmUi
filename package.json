@@ -20,6 +20,10 @@
     "ui",
     "km-ui"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git@172.16.100.100:xiaojun/km-ui.git"
+  },
   "license": "MIT",
   "dependencies": {
     "better-scroll": "^1.11.1",
