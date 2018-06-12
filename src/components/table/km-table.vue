@@ -71,5 +71,8 @@
   }
   .table-column {
     display: flex;
+    .table-body {
+      flex: 1;
+    }
   }
 </style>

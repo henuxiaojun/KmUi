@@ -1,15 +1,5 @@
 <template>
-  <div id="app">
-    <div>
-      <km-dialog
-        :isShow="true"
-        :headerText="'删除确认'"
-        :contentText="'删除后数据无法恢复'"
-        :dialogType="'confirm'"
-      ></km-dialog>
-      <km-button>aisuifhauihvui</km-button>
-    </div>
-  </div>
+  <div id="app"></div>
 </template>
 
 <script>
@@ -17,12 +7,19 @@
     name: 'App',
     data() {
       return {
-        isShow: true
+        isShow: true,
+        listData: [],
+        inputData: 'aaaa'
       }
     },
     components: {},
     mounted() {
-      console.log(this);
+      this.dialogInstance = this.$dialog({
+      }, (h) => {
+        return h('div', {
+          slot: 'content'
+        })
+      })
     },
     methods: {
     }

@@ -3,6 +3,7 @@
     <label v-for="check in checkBoxGroup">
       {{check.name}}
       <input type="checkbox"
+             class="aaa"
              v-if="!check.allChecked"
              :class="[
              {'checked': check.checked && !check.disabled},
@@ -14,6 +15,7 @@
              @click.stop="checkClick(check)"
       >
       <input type="checkbox"
+             class="bbb"
              v-else
              :class="{'checked': allCheckedStatus}"
              :checked="allCheckedStatus"
@@ -28,30 +30,7 @@
     props: {
       checkBoxGroup: {      //checked,disabled,allChecked
         type: Array,
-        default: () => [
-          {
-            value: '123',
-            checked: true,
-            disabled: true
-          },
-          {
-            value: '333',
-            disabled: true
-          },
-          {
-            value: 'asv'
-          },
-          {
-            value: 'bbb'
-          },
-          {
-            value: 'ggg'
-          },
-          {
-            name: '全选',
-            allChecked: true
-          }
-        ]
+        default: () => []
       }
     },
     data() {
@@ -124,6 +103,12 @@
       align-items: center;
     }
     input {
+      font-family: inherit;
+      font-size: inherit;
+      font-weight: inherit;
+      border: 0;
+      -webkit-appearance: none;
+
       margin-left: rem-calc(10px);
       margin-right: rem-calc(10px);
       border-radius: 50%;

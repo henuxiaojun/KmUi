@@ -1,5 +1,7 @@
 <template>
-  <span class="km-badge" v-show="isShow && count !== 0" :class="{'km-badge-text': count}">{{count}}</span>
+  <span class="km-badge" v-show="isShow && count !== 0" :class="{'km-badge-text': count}">
+    <slot>{{count}}</slot>
+  </span>
 </template>
 <script>
   export default {

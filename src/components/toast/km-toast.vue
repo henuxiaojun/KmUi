@@ -42,11 +42,14 @@
         default: 2000
       }
     },
+    watch: {
+      isShow(to) {
+        if (to && this.delayTime !== 0) {
+          this.hide()
+        }
+      }
+    },
     methods: {
-      show() {
-        this.isShow = true
-        return this
-      },
       hide() {
         setTimeout(() => {
           this.isShow = false

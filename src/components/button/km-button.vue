@@ -35,7 +35,7 @@
     },
     methods: {
       buttonClick() {
-        this.$emit('btnClick')
+        this.$emit('btn-click')
       }
     }
   }
