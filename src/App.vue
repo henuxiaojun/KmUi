@@ -1,25 +1,19 @@
 <template>
-  <div id="app"></div>
+  <div id="app">
+    <choice-list></choice-list>
+  </div>
 </template>
 
 <script>
+  import choiceList from '@/components/choicelist/km-choice-list'
   export default {
     name: 'App',
     data() {
       return {
-        isShow: true,
-        listData: [],
-        inputData: 'aaaa'
       }
     },
-    components: {},
+    components: {choiceList},
     mounted() {
-      this.dialogInstance = this.$dialog({
-      }, (h) => {
-        return h('div', {
-          slot: 'content'
-        })
-      })
     },
     methods: {
     }

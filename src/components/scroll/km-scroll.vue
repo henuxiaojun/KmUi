@@ -1,5 +1,5 @@
 <template>
-  <div ref="wrapper">
+  <div ref="wrapper" class="wrapper">
     <slot></slot>
   </div>
 </template>
@@ -45,7 +45,7 @@
         if (this.banner) {
           this.setSliderWidth()
         }
-        this._initScroll()
+        this._initScroll(BScroll || window.BScroll)
         if (this.autoPlay) {
           this.play()
         }
@@ -58,12 +58,10 @@
       }
     },
     methods: {
-      _initScroll() {
+      _initScroll(BScroll) {
         if (!this.$refs.wrapper) {
           return
         } // better-scroll的初始化Made by @_fbrznow
-
-        let BScroll = BScroll || window.BScroll
         this.scroll = new BScroll(this.$refs.wrapper, {
           probeType: this.probeType,
           click: this.click,
@@ -160,4 +158,11 @@
   @import "../../style/mixin/var";
   @import "../../style/mixin/rem-calc";
   @import "../../style/mixin/mixin";
+  .wrapper {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    width: 100%;
+    overflow: hidden;
+  }
 </style>
