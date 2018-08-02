@@ -1,21 +1,20 @@
 # km-ui-components
 
-> A Vue.js project
+> 基于vue通过vue-cli搭建的移动端UI组件库
 
-## Build Setup
+## npm操作
 
 ``` bash
-# install dependencies
+# 安装依赖
 npm install
 
-# serve with hot reload at localhost:8080
+# 默认开发服务器运行在本机IP地址端口8080
 npm run dev
 
-# build for production with minification
+# 通过run build 可以对项目进行打包，分别打包单独的min文件和各个模块的文件
 npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
 ```
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+## 组件文档地址
+
+[http://doc.qianchangzhezhi.info](http://45.77.241.6)
